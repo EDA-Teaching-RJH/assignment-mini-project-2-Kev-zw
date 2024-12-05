@@ -1,0 +1,12 @@
+mini_project_2/
+├── main.py
+├── regex_functions.py
+├── file_operations.py
+├── custom_library/
+│   ├── __init__.py
+│   └── math_utils.py
+├── tests/
+│   ├── test_regex.py
+│   ├── test_file_operations.py
+│   └── test_math_utils.py
+└── example_data.csv
